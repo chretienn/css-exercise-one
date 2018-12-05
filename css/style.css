@@ -3,7 +3,7 @@ body {   /* added missing bracket */
 }
 
 nav {
-  background color: yellow;
+  background-color: yellow; /* added a missing dash */
   height: 100px;
   margin-top: -10px;
   position: fixed;

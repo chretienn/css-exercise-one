@@ -13,6 +13,7 @@ nav {
 section {
   margin: auto; /* removed the zero */
   width: 60%;
+  padding-top: 10%;
 }
 
 h1 {
